@@ -63,7 +63,7 @@ so it can soften in the meantime.
 0. Cover the rolls and leave to raise for 40 minutes.
 0. Preheat the oven to 220&deg;C (200&deg;C convection).
 0. Brush the rolls with egg wash.
-0. Bake each roll for approximately 20 minutes.
+0. Bake each roll for 10 to 15 minutes; better too little than too much.
 0. When the kanelstænger have cooled, cover them in white frosting.
 
 [original]: http://www.opskriftsamlingen.dk/kageopskrifter/kanelstang-bedre-end-bagerens.htm
