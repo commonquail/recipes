@@ -1,6 +1,6 @@
 # Kanelstænger
 
-Yields 2 to 3 sticks.
+Yields 3 to 4 sticks.
 
 2 hours from start to finish.
 
