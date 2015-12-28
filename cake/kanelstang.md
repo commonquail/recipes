@@ -52,8 +52,9 @@ so it can soften in the meantime.
    Add more flour if necessary.
 0. Cover the dough and leave it to raise in a warm place for 15 minutes.
 0. Divide the dough in 4 pieces of even size.
-0. One by one, roll the pieces into flat rectangles of 20 x 40 cm
+0. One by one, roll the pieces into flat rectangles of 20 x 30 cm (W x L)
    with a rolling pin.
+   The length is suggested but should fit on a baking tray.
 0. Smear an even layer of remonce on each rectangle.
 0. Roll the rectangles tightly into Swiss rolls.
 0. Place the rolls on baking trays covered with parchment paper.
