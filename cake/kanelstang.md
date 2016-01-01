@@ -29,7 +29,7 @@ Ingredients are based on
 
 * 200 g butter
 * 200 g sugar
-* 35 g cinnamon
+* 25 g cinnamon
 
 ## Instructions
 
