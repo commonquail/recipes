@@ -34,7 +34,7 @@ Yields approximately 10 big buns.
    Press the buns flat.
 0. Brush the buns with egg wash, sprinkle on sesame seeds,
    and leave to raise for another 20-30 minutes.
-0. Preheat an oven to 210&deg;C (190&deg;C).
+0. Preheat an oven to 210&deg;C (190&deg;C convection).
 0. Bake the buns for about 15 minutes, until golden.
 
 ## Notes
