@@ -21,6 +21,7 @@
 - 1 tsp salt
 - 6 dl beef broth
 - 140 g tomato purée
+- 2 tbsp red wine vinegar
 
 ### Bechamelsauce
 
@@ -38,7 +39,7 @@
 0. Sauté finely chopped onion in a pot.
 0. Add and sauté beef.
 0. Add coarsely grained carrot, finely chopped celery, pressed garlic, oregano,
-   thyme, salt, tomato paste, and beef broth. Cook for 20 minutes.
+   thyme, salt, tomato paste, vinegar, and beef broth. Cook for 20 minutes.
 
 ### Bechamelsauce
 
