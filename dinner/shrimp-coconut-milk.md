@@ -8,8 +8,8 @@
 
 ### Coconut milk sauce
 
-- 1 lb shrimp, cooked, peeled, deveined
-- 1 cup of coconut milk
+- 450 g shrimp, cooked, peeled, deveined
+- 2.5 dl coconut milk
 - 2 tbsp cornstarch
 - 2 tsp soy sauce
 - 1 small bag of frozen broccoli, carrots, snap pears, and water chestnuts
