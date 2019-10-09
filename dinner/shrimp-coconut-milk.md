@@ -8,7 +8,7 @@
 
 ### Coconut milk sauce
 
-- 450 g shrimp, cooked, peeled, deveined
+- 250 g to 300 g shrimp, cooked, peeled, deveined
 - 2.5 dl coconut milk
 - 2 tbsp cornstarch
 - 2 tsp soy sauce
