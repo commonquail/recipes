@@ -7,6 +7,7 @@
 ## Ingredients
 
 - 9 lasagna plates
+- A large handful of bread crumbs
 
 ### Meat sauce
 
@@ -55,6 +56,7 @@
 0. Cover the bottom with a layer of lasagna plates.
 0. Cover the plates with meat sauce.
 0. Repeat steps 1-3 until out of sauce.
+0. Cover the lasagna in a thin layer of bread crumbs.
 0. Bake in oven preheated to 200 degrees for 35-40 minutes.
 
 ## Notes
