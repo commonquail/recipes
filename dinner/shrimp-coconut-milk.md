@@ -21,8 +21,8 @@
 ## Instructions
 
 0. Cook rice per instructions.
-0. In a large pan or wok, sauté the shrimp in olive oil spiced with paprika and
-   cayenne pepper. Put the fried shrimp aside on a plate for later.
+0. In a large pan or wok, sauté the shrimp and garlic in olive oil spiced with
+   paprika and cayenne pepper. Put the fried shrimp aside on a plate for later.
 0. Sauté the mushrooms in the same pan and leave them on the same plate.
 0. Mix the coconut milk, cornstarch, and salt and pepper in the same pan.
 0. Stir over low heat until thickened.
