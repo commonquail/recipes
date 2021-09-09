@@ -9,7 +9,6 @@
 - 1 dl butter
 - 200 g onions
 - 2 tbsp garlic
-- 1 tbsp parsley
 - 500 g ground beef
 - 300 g potatoes
 - 300 g carrots
@@ -26,12 +25,11 @@
 ### Meat filling
 
 1. Chop onions finely.
-1. Chop parsley finely.
 1. Mince garlic.
 1. Peel and grate potatoes and carrots.
 1. Heat butter in a large skillet over medium high heat until it starts to
    sizzle.
-1. Add onions, garlic, parsley, and ground beef.
+1. Add onions, garlic, and ground beef.
 1. Cook for about 5 minutes until the meat is browned.
 
 ### Pie
