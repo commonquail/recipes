@@ -1,6 +1,6 @@
 # Ground beef meat pie
 
-> 1 hour 30 minutes from start to finish.
+> 3 hours 40 minutes from start to finish.
 
 * [Original recipe][original] by Sam
 
@@ -51,5 +51,11 @@
    the top crust is golden brown.
 1. Remove the pie pan from the oven and let it cool at room temperature for at
    least 1 hour. Serve warm.
+
+## Notes
+
+- Total cooking time is about 2 hours 10 minutes: 40 minutes for the filling,
+  1 hour 30 minutes for assembly and baking. The rest is wait time that is
+  difficult to skip. It is helpful to make the filling a day in advance.
 
 [original]: https://www.aheadofthyme.com/ground-beef-meat-pie/
