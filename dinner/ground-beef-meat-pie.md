@@ -33,6 +33,11 @@
 1. Add ground beef.
 1. Cook for about 5 minutes until the meat is browned.
 1. Add garlic.
+1. Add potatoes, carrots, Worcestershire sauce, soy sauce, salt, and pepper.
+1. Stir well to cook evenly for another 2 minutes.
+1. Stir in breadcrumbs until fully combined.
+1. Let the meat filling cool down completely for about an hour, up to
+   overnight.
 
 ### Pie
 
