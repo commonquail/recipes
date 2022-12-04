@@ -10,10 +10,10 @@ Yields 10&times;95 g rolls.
 
 * 100 g sesame seeds
 * 25 g yeast
-* 8 dl cool water, ~16&deg;C
+* 800 g cool water, ~16&deg;C
 * 100 g rye flour, whole grain
 * 900 g Manitoba flour
-* 4 tsp salt
+* 20 g salt
 
 ## Instructions
 
@@ -29,7 +29,7 @@ Yields 10&times;95 g rolls.
 1. Leave the dough to raise in the fridge for at least 2 hours, preferably
    overnight for added flavour.
 1. Fold the dough repeatedly.
-1. Divide the dough in 20 rolls of 95g each.
+1. Divide the dough in 20 rolls of 97g each.
 1. Place the rolls on parchment paper on baking trays.
 1. Cover the rolls and leave to raise for 1 hour.
 1. Pre-heat oven to 220&deg;C (200&deg;C hot air).
