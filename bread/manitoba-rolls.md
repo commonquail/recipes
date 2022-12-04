@@ -8,7 +8,7 @@ Yields 10&times;95 g rolls.
 
 ## Ingredients
 
-* 100 g sesame seeds
+* 100 g fibre
 * 25 g yeast
 * 800 g cool water, ~16&deg;C
 * 100 g rye flour, whole grain
@@ -17,7 +17,6 @@ Yields 10&times;95 g rolls.
 
 ## Instructions
 
-1. Roast sesame seeds at 150&deg;C for 20 minutes.
 1. Dissolve yeast in the cool water.
 1. Add all dry ingredients except for salt.
 1. Mix until the dough lets go of the bowl's sides.
@@ -42,5 +41,7 @@ Yields 10&times;95 g rolls.
 * Manitoba flour is a high gluten flour. You can substitute other high gluten
   flours. All-purpose flour will yield perfectly edible rolls but with
   a blander crust.
+* For fibre, the original recipe uses sesame seeds, roasted for 20 minutes at
+  150&deg;. Wheat bran, rye bran, and rolled oats work well.
 
 [original]: https://www.valsemollen.dk/opskrifter/manitobaboller-oekologiske/
