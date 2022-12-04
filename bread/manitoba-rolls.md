@@ -35,4 +35,12 @@ Yields 10&times;95 g rolls.
 1. Pre-heat oven to 220&deg;C (200&deg;C hot air).
 1. Bake the rolls in the centre for 20 minutes.
 
+## Notes
+
+* The rye flour adds flavouring. Substitute wheat flour for a more neutral
+  profile.
+* Manitoba flour is a high gluten flour. You can substitute other high gluten
+  flours. All-purpose flour will yield perfectly edible rolls but with
+  a blander crust.
+
 [original]: https://www.valsemollen.dk/opskrifter/manitobaboller-oekologiske/
